@@ -1,0 +1,14 @@
+.about {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about-header {
+    margin-bottom: 2rem;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  

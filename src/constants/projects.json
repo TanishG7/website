@@ -1,0 +1,667 @@
+{
+  "project1": {
+    "slug": "h-474-vikaspuri",
+    "name": "H-474, Vikaspuri",
+    "client": "Gupta Family",
+    "size": "320",
+    "parking": "300",
+    "available": "3rd",
+    "floor": "3rd",
+    "BHK": "3",
+    "location": "Vikaspuri",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "On Sale",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  },
+
+  "project2": {
+    "slug": "b-1-619-janakpuri",
+    "name": "B-1/619, Janakpuri",
+    "client": "Gupta Family",
+    "size": "500",
+    "parking": "450",
+    "available": "",
+    "floor": "2nd",
+    "BHK": "4",
+    "location": "Janakpuri",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "Sold Out",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  },
+
+  "project3": {
+    "slug": "a-46-vikaspuri",
+    "name": "A-46, Vikaspuri",
+    "client": "Gupta Family",
+    "size": "200",
+    "parking": "180",
+    "available": "1st, 2nd, 3rd",
+    "floor": "1st, 2nd, 3rd",
+    "BHK": "3",
+    "location": "Vikaspuri",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "On Sale",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  },
+
+  "project4": {
+    "slug": "c-17-nkp",
+    "name": "C-17, New Krishna Park",
+    "client": "Gupta Family",
+    "size": "400",
+    "parking": "360",
+    "available": "Upper Ground",
+    "floor": "Upper Ground",
+    "BHK": "4",
+    "location": "New Krishna Park",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "On Sale",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  },
+
+  "project5": {
+    "slug": "a-112-dwarka",
+    "name": "A-112, Dwarka",
+    "client": "Gupta Family",
+    "size": "350",
+    "parking": "300",
+    "available": "2nd",
+    "floor": "2nd",
+    "BHK": "4",
+    "location": "Dwarka",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "Sold Out",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  },
+
+  "project6": {
+    "slug": "h-170-vikaspuri",
+    "name": "H-170, Vikaspuri",
+    "client": "Gupta Family",
+    "size": "260",
+    "parking": "220",
+    "available": "1st, 3rd",
+    "floor": "1st, 3rd",
+    "BHK": "3",
+    "location": "Vikaspuri",
+    "video": "MyMovie.mp4",
+    "type": "Independent Floors",
+    "status": "On Sale",
+    "mainImage": "decor.jpeg",
+    "startDate": "11/5/23",
+    "endDate": "20/6/24",
+    "timeline": [
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "10/6/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      },
+      {
+        "date": "20/5/24",
+        "description": "aa"
+      }
+    ],
+    "photos": [
+      "interior10.jpeg", "interior11.jpeg", "interior7.jpeg", "interior6.jpeg", "interior5.jpeg"
+    ],
+    "activities": [
+      {
+        "name": "park",
+        "display": "Park",
+        "distance": "500m"
+      },
+      {
+        "name": "school",
+        "display": "School",
+        "distance": "1km"
+      },
+      {
+        "name": "shopping",
+        "display": "Groceries",
+        "distance": "2km"
+      },
+      {
+        "name": "hospital",
+        "display": "Hospital",
+        "distance": "2km"
+      },
+      {
+        "name": "petrol",
+        "display": "Petrol Pump",
+        "distance": "2km"
+      },
+      {
+        "name": "wallet",
+        "display": "ATM",
+        "distance": "2km"
+      },
+      {
+        "name": "metro",
+        "display": "Metro Station",
+        "distance": "2km"
+      }
+    ],
+    "description": "This is a brief description of the Modern Villa project.",
+    "faqs": [
+      {
+        "question": "What is the completion date?",
+        "answer": "The project was completed on 20 June 2024"
+      },
+      {
+        "question": "What materials were used?",
+        "answer": "High-quality sustainable materials"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+.timeline-container {
+    display: flex;
+    position: relative;
+    height: 600px; /* Adjust height as needed */
+  }
+  
+  .timeline-svg-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+  }
+  
+  .timeline-svg {
+    top:0;
+    width: 50px;
+    height: 100%;
+  }
+
+  .timeline-svg circle {
+    transition: transform 0.3s, fill 0.3s;
+  }
+
+  .timeline-events {
+    margin-left: 50px; 
+    position: relative;
+  }
+  
+  .timeline-event {
+    position: absolute;
+    left: 0;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+  }
+  
+  .timeline-horizontal-line {
+    width: 50px; 
+    height: 2px;
+    background-color: #ff0000;
+    margin-right: 10px;
+    position: relative;
+  }
+  
+  .timeline-event p {
+    margin-top: -8px;
+    margin-right: 20px;
+    color: black;
+  }
+  

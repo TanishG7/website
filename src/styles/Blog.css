@@ -1,0 +1,18 @@
+.blog {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .blog-header {
+    margin-bottom: 2rem;
+  }
+  
+  .blog-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .blog-post {
+    margin-bottom: 2rem;
+  }
+  

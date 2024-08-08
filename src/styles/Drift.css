@@ -1,0 +1,70 @@
+.drift-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 1000;
+  }
+  
+  .drift-button {
+    background-color: #0526e0;
+    border-radius: 30px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    cursor: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  .drift-button:hover {
+    background-color: #128C7E;
+  }
+  
+  .drift-expanded {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 250px;
+    box-sizing: border-box;
+  }
+  
+  .drift-expanded h2 {
+    margin: 0 0 20px 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .drift-option {
+    background-color: aquamarine;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    cursor: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .drift-option:not(:last-child) {
+    border-bottom: 1px solid skyblue;
+  }
+  
+  .drift-option span {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #0a0000;
+  }
+  
+  .drift-option:hover {
+    background-color: #a343ec;
+  }
+  

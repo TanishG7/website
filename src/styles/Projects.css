@@ -1,0 +1,15 @@
+.projects {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .projects-header {
+    margin-bottom: 2rem;
+  }
+  
+  .projects-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  

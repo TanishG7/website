@@ -1,0 +1,247 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.home {
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  background-color: #000;
+}
+
+.hero-section {
+  display: flex;
+  height: 90vh;
+  background-color: #000;
+}
+
+.hero-video {
+  flex: 1;
+  position: relative;
+}
+
+.hero-video video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  text-align: center;
+  background:linear-gradient(to bottom, #e33434, #000);
+  color: #fff;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: peachpuff;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.hero-content button {
+  background-color: #ffcc00;
+  color: #ff0000;
+  font-weight: 700;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  cursor: none;
+  margin: 0 0.5rem;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+}
+
+.hero-content button:hover {
+  background-color: #b1900a;
+  color: #830101;
+}
+
+.project-card-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.testimonials, .process, .why-choose-us, .blog-news, .contact-us {
+  padding: 4rem 2rem;
+  text-align: center;
+  background-color: #000;
+}
+
+.process p, .why-choose-us p, .contact-us p {
+  margin: 1rem 0;
+}
+
+.testimonial-cards, .process-steps, .blog-posts {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+
+.servicesh {
+  padding: 2rem; 
+  background-color: #000;
+}
+
+.servicesh h1{
+  color: #0dff00;
+  text-align: center;
+}
+
+.service-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px;
+  border: 7px solid #000;
+  border-radius: 8px;
+  overflow: hidden;
+  background:linear-gradient(to bottom, #e33434, #000000);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+}
+
+.service-image {
+  width: 100%;
+  height: 50vh;
+}
+
+.service-content {
+  flex:1;
+  padding: 20px;
+  text-align: center;
+}
+
+.service-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #ffcc00;
+}
+
+.service-description {
+  font-size: 1em;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.service-features {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 15px;
+}
+
+.service-features li {
+  font-size: 0.9em;
+  margin-bottom: 5px;
+  color: #0dff00;
+}
+
+.service-button {
+  background-color: #ff0000;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: none;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.service-button:hover {
+  background-color: #ff011a87;
+}
+
+.projecth1 h1{
+  color: wheat;
+  margin-left: 36vw;
+  font-size: 60px;
+}
+
+.see-morebutton {
+  display: inline-block;
+  width: 30%;
+  padding: 12px 24px;
+  margin-top: 30px;
+  font-size: 26px;
+  background: linear-gradient(90deg, #ff7e5f, #feb47b);
+  border: none;
+  border-radius: 30px;
+  word-spacing: 5px;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  left: 50%; 
+  transform: translateX(-50%);
+}
+
+.see-all-projects-button{
+  color:#830101
+}
+
+.see-morebutton:hover {
+  text-decoration: none;
+  background: linear-gradient(90deg, #feb47b, #ff7e5f);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+}
+
+.process-steps, .why-choose-us ul {
+  text-align: left;
+}
+
+.why-choose-us ul {
+  list-style: none;
+  padding: 0;
+}
+
+.why-choose-us li {
+  margin: 0.5rem 0;
+}
+
+.contact-us form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.contact-us input, .contact-us textarea {
+  padding: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-us button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  cursor: none;
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+}
+
+.contact-us button:hover {
+  background-color: #555;
+}
+

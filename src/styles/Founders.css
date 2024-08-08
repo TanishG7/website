@@ -1,0 +1,15 @@
+.founders {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .founders-header {
+    margin-bottom: 2rem;
+  }
+  
+  .founders-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  

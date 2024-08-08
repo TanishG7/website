@@ -1,0 +1,15 @@
+.services {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .services-header {
+    margin-bottom: 2rem;
+  }
+  
+  .services-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  

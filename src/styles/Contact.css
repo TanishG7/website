@@ -1,0 +1,14 @@
+.contact {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .contact-header {
+    margin-bottom: 2rem;
+  }
+  
+  .contact-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  

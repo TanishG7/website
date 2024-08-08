@@ -1,0 +1,15 @@
+.blog-post {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .blog-post-header {
+    margin-bottom: 2rem;
+  }
+  
+  .blog-post-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  

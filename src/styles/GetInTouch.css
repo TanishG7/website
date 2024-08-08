@@ -1,0 +1,37 @@
+.get-in-touch {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #eecc00;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  
+  .get-in-touch-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .get-in-touch p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: red;
+  }
+  
+  .get-in-touch .schedule-meeting-button {
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: none;
+    width: 500px;
+    margin-left: 38px;
+    margin-top: 20px;
+  }
+  
+  .schedule-meeting-button:hover {
+    background-color: #0056b3;
+  }
+  

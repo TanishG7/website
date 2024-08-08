@@ -1,0 +1,15 @@
+.our-team {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .our-team-header {
+    margin-bottom: 2rem;
+  }
+  
+  .our-team-content {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
