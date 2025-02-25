@@ -135,8 +135,8 @@ button:hover {
   z-index: 1000;
 }
 
-.alert-box {
-  background-color: #fff;
+.alert-box-meet {
+  background-color: #10101f;
   padding: 40px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -146,17 +146,17 @@ button:hover {
   text-align: center;
 }
 
-.alert-box h2 {
+.alert-box-meet h2 {
   margin-top: 0;
-  color: #333;
+  color: #eecc00;
 }
 
-.alert-box p {
+.alert-box-meet p {
   margin-bottom: 0;
-  color: #666;
+  color: #eecc00;
 }
 
-.alert-box .btn {
+.alert-box-meet .btn {
   position: absolute;
   bottom: 90px;
   left: 250px;
@@ -164,6 +164,6 @@ button:hover {
   cursor: none;
   background: none;
   border: none;
-  color: #666;
+  color: #ffffff;
   cursor: none;
 }
