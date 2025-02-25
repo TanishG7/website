@@ -47,7 +47,7 @@ const ScheduleMeeting = () => {
     }
 
     console.log(formData);
-    setAlertMessage('Your form has been submitted.');
+    setAlertMessage('Your meeting has been scheduled');
     setShowAlert(true);
 
     resetFormFields();
@@ -332,7 +332,7 @@ const ScheduleMeeting = () => {
 
       {showAlert && (
         <div className="alert-popup show">
-          <div className="alert-box">
+          <div className="alert-box-meet">
             <button className='btn' onClick={closeAlert}>&times;</button>
             <h2>{alertMessage === 'Phone number must be exactly 10 digits.' ? 'Error' : 'Thank You!'}</h2>
             <p>{alertMessage}</p>
